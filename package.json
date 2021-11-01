@@ -1,0 +1,26 @@
+{
+  "name": "bigbox",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousuf-alam/Bigbox-ecommerce-app-react-node-mongodb.git"
+  },
+  "author": "yousuf alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yousuf-alam/Bigbox-ecommerce-app-react-node-mongodb/issues"
+  },
+  "homepage": "https://github.com/yousuf-alam/Bigbox-ecommerce-app-react-node-mongodb#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
